@@ -149,7 +149,7 @@ public class LocatieController {
                             if(Objects.equals(locatieUser.getActivitati(), activitati)){
                                 if(locatieUser.getobiectiveTuristice() == obiectiveTuristice){
                                     if(Objects.equals(locatieUser.getCazare(), cazare)){
-                                        if(locatieUser.getBuget() <= buget){
+                                        if(locatieUser.getBuget() >= buget){
                                             locatieUser.setNumeDestinatie(numeDestinatie);
                                         }
                                         else {
