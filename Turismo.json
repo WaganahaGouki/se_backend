@@ -1,0 +1,706 @@
+[
+	{
+		"locatie":
+		{
+			"taraOrigine": "Franta",
+			"scop": "vizitat",
+			"perioada": 3,
+			"climat": "temperat",
+			"zona": "urban",
+			"nrPersoane": "singur",
+			"activitati": "non-adrenalina",
+			"obiectiveTuristice": 9,
+			"cazare": "hotel",
+			"buget": 3568,
+			"numeDestinatie": "Hotel d'Espagne - Paris"
+		}
+	},
+	{
+		"locatie":
+		{
+			"taraOrigine": "Franta",
+			"scop": "vizitat",
+			"perioada": 3,
+			"climat": "temperat",
+			"zona": "urban",
+			"nrPersoane": "singur",
+			"activitati": "non-adrenalina",
+			"obiectiveTuristice": 9,
+			"cazare": "hotel",
+			"buget": 1782,
+			"numeDestinatie": "Hotel de la Tour - Paris"
+		}
+	},
+	{
+		"locatie":
+		{
+			"taraOrigine": "Franta",
+			"scop": "vizitat",
+			"perioada": 3,
+			"climat": "temperat",
+			"zona": "urban",
+			"nrPersoane": "singur",
+			"activitati": "non-adrenalina",
+			"obiectiveTuristice": 9,
+			"cazare": "hotel",
+			"buget": 636,
+			"numeDestinatie": "UCPA Sport Station hostel - Paris"
+		}
+	},
+	{
+		"locatie":
+		{
+			"taraOrigine": "Germania",
+			"scop": "vizitat",
+			"perioada": 1,
+			"climat": "temperat",
+			"zona": "urban",
+			"nrPersoane": "grup",
+			"activitati": "non-adrenalina",
+			"obiectiveTuristice": 6,
+			"cazare": "hotel",
+			"buget": 586,
+			"numeDestinatie": "Hotel Bayernland - Munchen"
+		}
+	},
+	{
+		"locatie":
+		{
+			"taraOrigine": "Germania",
+			"scop": "vizitat",
+			"perioada": 6,
+			"climat": "temperat",
+			"zona": "urban",
+			"nrPersoane": "singur",
+			"activitati": "non-adrenalina",
+			"obiectiveTuristice": 6,
+			"cazare": "hotel",
+			"buget": 2580,
+			"numeDestinatie": "Hotel Am Moosfeld - Munchen"
+		}
+	},
+	{
+		"locatie":
+		{
+			"taraOrigine": "Germania",
+			"scop": "vizitat",
+			"perioada": 6,
+			"climat": "temperat",
+			"zona": "urban",
+			"nrPersoane": "grup",
+			"activitati": "non-adrenalina",
+			"obiectiveTuristice": 6,
+			"cazare": "hotel",
+			"buget": 2340,
+			"numeDestinatie": "Hotel Am Moosfeld - Munchen"
+		}
+	},
+	{
+		"locatie":
+		{
+			"taraOrigine": "Germania",
+			"scop": "odihna",
+			"perioada": 4,
+			"climat": "temperat",
+			"zona": "urban",
+			"nrPersoane": "grup",
+			"activitati": "adrenalina",
+			"obiectiveTuristice": 1,
+			"cazare": "hotel",
+			"buget": 1406,
+			"numeDestinatie": "Hampton By Hilton Munich City North - Munchen, Parc de distractii Lego Ninjago The Ride"
+		}
+	},
+	{
+		"locatie":
+		{
+			"taraOrigine": "Italia",
+			"scop": "vizitat",
+			"perioada": 3,
+			"climat": "mediteranean",
+			"zona": "urban",
+			"nrPersoane": "singur",
+			"activitati": "non-adrenalina",
+			"obiectiveTuristice": 8,
+			"cazare": "locuinta",
+			"buget": 1905,
+			"numeDestinatie": "Apartamet New Desing St.Peter - Vatican, Roma"
+		}
+	},
+	{
+		"locatie":
+		{
+			"taraOrigine": "Italia",
+			"scop": "vizitat",
+			"perioada": 1,
+			"climat": "mediteranean",
+			"zona": "urban",
+			"nrPersoane": "singur",
+			"activitati": "non-adrenalina",
+			"obiectiveTuristice": 3,
+			"cazare": "locuinta",
+			"buget": 3971,
+			"numeDestinatie": "Apartamet Sonder Trastevere - Roma"
+		}
+	},
+	{
+		"locatie":
+		{
+			"taraOrigine": "Italia",
+			"scop": "vizitat",
+			"perioada": 2,
+			"climat": "mediteranean",
+			"zona": "urban",
+			"nrPersoane": "grup",
+			"activitati": "non-adrenalina",
+			"obiectiveTuristice": 5,
+			"cazare": "hotel",
+			"buget": 1512,
+			"numeDestinatie": "Roma 2B - Roma"
+		}
+	},
+	{
+		"locatie":
+		{
+			"taraOrigine": "Italia",
+			"scop": "odihna",
+			"perioada": 1,
+			"climat": "mediteranean",
+			"zona": "urban",
+			"nrPersoane": "grup",
+			"activitati": "non-adrenalina",
+			"obiectiveTuristice": 3,
+			"cazare": "locuinta",
+			"buget": 1231,
+			"numeDestinatie": "La Primavera - Roma"
+		}
+	},
+	{
+		"locatie":
+		{
+			"taraOrigine": "Italia",
+			"scop": "odihna",
+			"perioada": 4,
+			"climat": "mediteranean",
+			"zona": "urban",
+			"nrPersoane": "grup",
+			"activitati": "non-adrenalina",
+			"obiectiveTuristice": 3,
+			"cazare": "locuinta",
+			"buget": 4036,
+			"numeDestinatie": "Sophie's Choice Apartamet - Roma"
+		}
+	},
+	{
+		"locatie":
+		{
+			"taraOrigine": "Italia",
+			"scop": "odihna",
+			"perioada": 2,
+			"climat": "mediteranean",
+			"zona": "urban",
+			"nrPersoane": "singur",
+			"activitati": "non-adrenalina",
+			"obiectiveTuristice": 3,
+			"cazare": "hotel",
+			"buget": 2650,
+			"numeDestinatie": "Colosseum Palace Star - Roma"
+		}
+	},
+	{
+		"locatie":
+		{
+			"taraOrigine": "Spania",
+			"scop": "odihna",
+			"perioada": 3,
+			"climat": "mediteranean",
+			"zona": "urban",
+			"nrPersoane": "grup",
+			"activitati": "adrenalina",
+			"obiectiveTuristice": 1,
+			"cazare": "hotel",
+			"buget": 3393,
+			"numeDestinatie": "Gran Hotel La Florida G.L Monumento - Barcelona , Tibidabo - parc de distractii"
+		}
+	},
+	{
+		"locatie":
+		{
+			"taraOrigine": "Spania",
+			"scop": "odihna",
+			"perioada": 6,
+			"climat": "mediteranean",
+			"zona": "urban",
+			"nrPersoane": "grup",
+			"activitati": "adrenalina",
+			"obiectiveTuristice": 1,
+			"cazare": "hotel",
+			"buget": 5436,
+			"numeDestinatie": "Vincci Mae - Barcelona , Tibidabo - parc de distractii"
+		}
+	},
+	{
+		"locatie":
+		{
+			"taraOrigine": "Spania",
+			"scop": "odihna",
+			"perioada": 1,
+			"climat": "mediteranean",
+			"zona": "urban",
+			"nrPersoane": "grup",
+			"activitati": "adrenalina",
+			"obiectiveTuristice": 1,
+			"cazare": "hotel",
+			"buget": 906,
+			"numeDestinatie": "Vincci Mae - Barcelona , Tibidabo - parc de distractii"
+		}
+	},
+	{
+		"locatie":
+		{
+			"taraOrigine": "Spania",
+			"scop": "vizitat",
+			"perioada": 4,
+			"climat": "mediteranean",
+			"zona": "urban",
+			"nrPersoane": "singur",
+			"activitati": "adrenalina",
+			"obiectiveTuristice": 13,
+			"cazare": "hotel",
+			"buget": 1540,
+			"numeDestinatie": "Hostel Central and Basic Universitat - Barcelona"
+		}
+	},
+	{
+		"locatie":
+		{
+			"taraOrigine": "Spania",
+			"scop": "vizitat",
+			"perioada": 2,
+			"climat": "mediteranean",
+			"zona": "urban",
+			"nrPersoane": "singur",
+			"activitati": "non-adrenalina",
+			"obiectiveTuristice": 6,
+			"cazare": "hotel",
+			"buget": 1160,
+			"numeDestinatie": "Zenit Borrell - Barcelona"
+		}
+	},
+	{
+		"locatie":
+		{
+			"taraOrigine": "Norvegia",
+			"scop": "odihna",
+			"perioada": 2,
+			"climat": "rece",
+			"zona": "rural",
+			"nrPersoane": "grup",
+			"activitati": "non-adrenalina",
+			"obiectiveTuristice": 1,
+			"cazare": "locuinta",
+			"buget": 776,
+			"numeDestinatie": "Kleines Haus am Fjord - Sor-Eidem"
+		}
+	},
+	{
+		"locatie":
+		{
+			"taraOrigine": "Norvegia",
+			"scop": "odihna",
+			"perioada": 4,
+			"climat": "rece",
+			"zona": "rural",
+			"nrPersoane": "grup",
+			"activitati": "non-adrenalina",
+			"obiectiveTuristice": 1,
+			"cazare": "locuinta",
+			"buget": 4935,
+			"numeDestinatie": "Tind seaside cabins- Tind"
+		}
+	},
+	{
+		"locatie":
+		{
+			"taraOrigine": "Norvegia",
+			"scop": "odihna",
+			"perioada": 5,
+			"climat": "rece",
+			"zona": "urban",
+			"nrPersoane": "grup",
+			"activitati": "non-adrenalina",
+			"obiectiveTuristice": 1,
+			"cazare": "hotel",
+			"buget": 4195,
+			"numeDestinatie": "Malangen Resort - Mestervik"
+		}
+	},
+	{
+		"locatie":
+		{
+			"taraOrigine": "Norvegia",
+			"scop": "odihna",
+			"perioada": 1,
+			"climat": "rece",
+			"zona": "rural",
+			"nrPersoane": "grup",
+			"activitati": "non-adrenalina",
+			"obiectiveTuristice": 1,
+			"cazare": "hotel",
+			"buget": 558,
+			"numeDestinatie": "Nordpå Fjellhotell AS - Haltdalen"
+		}
+	},
+	{
+		"locatie":
+		{
+			"taraOrigine": "Norvegia",
+			"scop": "odihna",
+			"perioada": 6,
+			"climat": "rece",
+			"zona": "urban",
+			"nrPersoane": "grup",
+			"activitati": "non-adrenalina",
+			"obiectiveTuristice": 1,
+			"cazare": "hotel",
+			"buget": 2515,
+			"numeDestinatie": "Radisson Blu Hotel Bodø - Bodø"
+		}
+	},
+	{
+		"locatie":
+		{
+			"taraOrigine": "Romania",
+			"scop": "odihna",
+			"perioada": 3,
+			"climat": "temperat",
+			"zona": "rural",
+			"nrPersoane": "grup",
+			"activitati": "non-adrenalina",
+			"obiectiveTuristice": 2,
+			"cazare": "hotel",
+			"buget": 1021,
+			"numeDestinatie": "Pensiunea Apuseni Wild - Remeti"
+		}
+	},
+	{
+		"locatie":
+		{
+			"taraOrigine": "Romania",
+			"scop": "odihna",
+			"perioada": 5,
+			"climat": "temperat",
+			"zona": "rural",
+			"nrPersoane": "singur",
+			"activitati": "non-adrenalina",
+			"obiectiveTuristice": 2,
+			"cazare": "hotel",
+			"buget": 1800,
+			"numeDestinatie": "Pensiunea Casa Bucatarului - Suncuius"
+		}
+	},
+	{
+		"locatie":
+		{
+			"taraOrigine": "Romania",
+			"scop": "odihna",
+			"perioada": 5,
+			"climat": "temperat",
+			"zona": "rural",
+			"nrPersoane": "singur",
+			"activitati": "non-adrenalina",
+			"obiectiveTuristice": 2,
+			"cazare": "hotel",
+			"buget": 1800,
+			"numeDestinatie": "Pensiunea Casa Bucatarului - Suncuius"
+		}
+	},
+	{
+		"locatie":
+		{
+			"taraOrigine": "Germania",
+			"scop": "odihna",
+			"perioada": 2,
+			"climat": "temperat",
+			"zona": "rural",
+			"nrPersoane": "grup",
+			"activitati": "adrenalina",
+			"obiectiveTuristice": 1,
+			"cazare": "hotel",
+			"buget": 840,
+			"numeDestinatie": "Beisenbusch Hotel & Restaurant - Bottrop-Mobie Park"
+		}
+	},
+	{
+		"locatie":
+		{
+			"taraOrigine": "Japonia",
+			"scop": "vizitat",
+			"perioada": 16,
+			"climat": "temperat",
+			"zona": "urban",
+			"nrPersoane": "grup",
+			"activitati": "non-adrenalina",
+			"obiectiveTuristice": 12,
+			"cazare": "hotel",
+			"buget": 11595,
+			"numeDestinatie": "Minn Juso - Yodogawa Ward, Osaka"
+		}
+	},
+	{
+		"locatie":
+		{
+			"taraOrigine": "Japonia",
+			"scop": "vizitat",
+			"perioada": 3,
+			"climat": "temperat",
+			"zona": "rural",
+			"nrPersoane": "grup",
+			"activitati": "non-adrenalina",
+			"obiectiveTuristice": 3,
+			"cazare": "locuinta",
+			"buget": 3144,
+			"numeDestinatie": "Aya Nisekop - Hirafu, Niseko"
+		}
+	},
+	{
+		"locatie":
+		{
+			"taraOrigine": "Japonia",
+			"scop": "vizitat",
+			"perioada": 3,
+			"climat": "temperat",
+			"zona": "urban",
+			"nrPersoane": "grup",
+			"activitati": "non-adrenalina",
+			"obiectiveTuristice": 6,
+			"cazare": "hotel",
+			"buget": 607,
+			"numeDestinatie": "Tenza Hotel & SKYSPA at Sapporo Central - Odori, Sapporo"
+		}
+	},
+	{
+		"locatie":
+		{
+			"taraOrigine": "China",
+			"scop": "vizitat",
+			"perioada": 2,
+			"climat": "mediteranean",
+			"zona": "urban",
+			"nrPersoane": "grup",
+			"activitati": "non-adrenalina",
+			"obiectiveTuristice": 5,
+			"cazare": "hotel",
+			"buget": 437,
+			"numeDestinatie": "翰煜Loft公寓酒店 - Shenzhen"
+		}
+	},
+	{
+		"locatie":
+		{
+			"taraOrigine": "China",
+			"scop": "vizitat",
+			"perioada": 3,
+			"climat": "mediteranean",
+			"zona": "urban",
+			"nrPersoane": "grup",
+			"activitati": "non-adrenalina",
+			"obiectiveTuristice": 6,
+			"cazare": "hotel",
+			"buget": 1248,
+			"numeDestinatie": "Doubletree By Hilton Quzhou - Quzhou"
+		}
+	},
+	{
+		"locatie":
+		{
+			"taraOrigine": "China",
+			"scop": "odihna",
+			"perioada": 6,
+			"climat": "mediteranean",
+			"zona": "rural",
+			"nrPersoane": "grup",
+			"activitati": "non-adrenalina",
+			"obiectiveTuristice": 1,
+			"cazare": "hotel",
+			"buget": 1326,
+			"numeDestinatie": "Green Hostel & Sunny Guesthouse - Ya Kou, Sheng Cun village"
+		}
+	},
+	{
+		"locatie":
+		{
+			"taraOrigine": "India",
+			"scop": "odihna",
+			"perioada": 10,
+			"climat": "mediteranean",
+			"zona": "rural",
+			"nrPersoane": "grup",
+			"activitati": "non-adrenalina",
+			"obiectiveTuristice": 1,
+			"cazare": "hotel",
+			"buget": 1510,
+			"numeDestinatie": "Zulu Land cottages - near Curlies beach shack and shiva valley - Anjuna beach"
+		}
+	},
+	{
+		"locatie":
+		{
+			"taraOrigine": "India",
+			"scop": "odihna",
+			"perioada": 7,
+			"climat": "mediteranean",
+			"zona": "rural",
+			"nrPersoane": "grup",
+			"activitati": "non-adrenalina",
+			"obiectiveTuristice": 1,
+			"cazare": "hotel",
+			"buget": 1959,
+			"numeDestinatie": "Kanoka Village Resort - Mājbāt"
+		}
+	},
+	{
+		"locatie":
+		{
+			"taraOrigine": "India",
+			"scop": "odihna",
+			"perioada": 20,
+			"climat": "mediteranean",
+			"zona": "rural",
+			"nrPersoane": "grup",
+			"activitati": "non-adrenalina",
+			"obiectiveTuristice": 1,
+			"cazare": "hotel",
+			"buget": 940,
+			"numeDestinatie": "Himalayan Riverside Resort - Manali"
+		}
+	},
+	{
+		"locatie":
+		{
+			"taraOrigine": "India",
+			"scop": "vizitat",
+			"perioada": 3,
+			"climat": "mediteranean",
+			"zona": "urban",
+			"nrPersoane": "singur",
+			"activitati": "non-adrenalina",
+			"obiectiveTuristice": 2,
+			"cazare": "hotel",
+			"buget": 597,
+			"numeDestinatie": "Malligi,Hampi - Hospet"
+		}
+	},
+	{
+		"locatie":
+		{
+			"taraOrigine": "India",
+			"scop": "vizitat",
+			"perioada": 4,
+			"climat": "mediteranean",
+			"zona": "urban",
+			"nrPersoane": "singur",
+			"activitati": "non-adrenalina",
+			"obiectiveTuristice": 5,
+			"cazare": "hotel",
+			"buget": 200,
+			"numeDestinatie": "Hotel Emporio Near New Delhi Railway Station - New Delhi"
+		}
+	},
+	{
+		"locatie":
+		{
+			"taraOrigine": "Emiratele Arabe Unite",
+			"scop": "vizitat",
+			"perioada": 3,
+			"climat": "mediteranean",
+			"zona": "urban",
+			"nrPersoane": "grup",
+			"activitati": "non-adrenalina",
+			"obiectiveTuristice": 9,
+			"cazare": "hotel",
+			"buget": 1704,
+			"numeDestinatie": "The First Collection Business Bay - Dubai"
+		}
+	},
+	{
+		"locatie":
+		{
+			"taraOrigine": "Emiratele Arabe Unite",
+			"scop": "vizitat",
+			"perioada": 3,
+			"climat": "mediteranean",
+			"zona": "urban",
+			"nrPersoane": "singur",
+			"activitati": "non-adrenalina",
+			"obiectiveTuristice": 9,
+			"cazare": "hotel",
+			"buget": 759,
+			"numeDestinatie": "The Apartments, Dubai World Trade Centre Hotel Apartments - Dubai"
+		}
+	},
+	{
+		"locatie":
+		{
+			"taraOrigine": "Emiratele Arabe Unite",
+			"scop": "vizitat",
+			"perioada": 2,
+			"climat": "mediteranean",
+			"zona": "urban",
+			"nrPersoane": "singur",
+			"activitati": "non-adrenalina",
+			"obiectiveTuristice": 6,
+			"cazare": "hotel",
+			"buget": 816,
+			"numeDestinatie": "Hilton Garden Inn Dubai Mall Of The Emirates - Dubai"
+		}
+	},
+	{
+		"locatie":
+		{
+			"taraOrigine": "Emiratele Arabe Unite",
+			"scop": "vizitat",
+			"perioada": 2,
+			"climat": "mediteranean",
+			"zona": "urban",
+			"nrPersoane": "singur",
+			"activitati": "non-adrenalina",
+			"obiectiveTuristice": 6,
+			"cazare": "hotel",
+			"buget": 730,
+			"numeDestinatie": "Ibis Abu Dhabi Gate - Abu Dhabi"
+		}
+	},
+	{
+		"locatie":
+		{
+			"taraOrigine": "Emiratele Arabe Unite",
+			"scop": "odihna",
+			"perioada": 1,
+			"climat": "mediteranean",
+			"zona": "urban",
+			"nrPersoane": "singur",
+			"activitati": "non-adrenalina",
+			"obiectiveTuristice": 1,
+			"cazare": "hotel",
+			"buget": 612,
+			"numeDestinatie": "Sheraton Abu Dhabi Hotel & Resort - Abu Dhabi"
+		}
+	},
+	{
+		"locatie":
+		{
+			"taraOrigine": "Emiratele Arabe Unite",
+			"scop": "odihna",
+			"perioada": 10,
+			"climat": "mediteranean",
+			"zona": "urban",
+			"nrPersoane": "grup",
+			"activitati": "non-adrenalina",
+			"obiectiveTuristice": 1,
+			"cazare": "hotel",
+			"buget": 4560,
+			"numeDestinatie": "Courtyard by Marriott World Trade Center - Abu Dhabi"
+		}
+	}
+]
