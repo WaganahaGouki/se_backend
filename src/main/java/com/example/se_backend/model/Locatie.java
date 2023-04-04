@@ -1,38 +1,28 @@
 package com.example.se_backend.model;
 
 public class Locatie {
-    private String taraOrigine;
     private String scop;
-    private int perioada;
+    private long perioada;
     private String climat;
     private String zona;
     private String nrPersoane;
     private String activitati;
-    private int obiectiveTursitice;
+    private long obiectiveTuristice;
     private String cazare;
-    private int buget;
+    private long buget;
     private String numeDestinatie;
 
-    public Locatie(String taraOrigine, String scop, int perioada, String climat, String zona, String nrPersoane, String activitati, int obiectiveTursitice, String cazare, int buget, String numeDestinatie) {
-        this.taraOrigine = taraOrigine;
+    public Locatie(String scop, long perioada, String climat, String zona, String nrPersoane, String activitati, long obiectiveTuristice, String cazare, long buget, String numeDestinatie) {
         this.scop = scop;
         this.perioada = perioada;
         this.climat = climat;
         this.zona = zona;
         this.nrPersoane = nrPersoane;
         this.activitati = activitati;
-        this.obiectiveTursitice = obiectiveTursitice;
+        this.obiectiveTuristice = obiectiveTuristice;
         this.cazare = cazare;
         this.buget = buget;
         this.numeDestinatie = numeDestinatie;
-    }
-
-    public String getTaraOrigine() {
-        return taraOrigine;
-    }
-
-    public void setTaraOrigine(String taraOrigine) {
-        this.taraOrigine = taraOrigine;
     }
 
     public String getScop() {
@@ -43,11 +33,11 @@ public class Locatie {
         this.scop = scop;
     }
 
-    public int getPerioada() {
+    public long getPerioada() {
         return perioada;
     }
 
-    public void setPerioada(int perioada) {
+    public void setPerioada(long perioada) {
         this.perioada = perioada;
     }
 
@@ -83,12 +73,12 @@ public class Locatie {
         this.activitati = activitati;
     }
 
-    public int getObiectiveTursitice() {
-        return obiectiveTursitice;
+    public long getobiectiveTuristice() {
+        return obiectiveTuristice;
     }
 
-    public void setObiectiveTursitice(int obiectiveTursitice) {
-        this.obiectiveTursitice = obiectiveTursitice;
+    public void setobiectiveTuristice(long obiectiveTuristice) {
+        this.obiectiveTuristice = obiectiveTuristice;
     }
 
     public String getCazare() {
@@ -99,11 +89,11 @@ public class Locatie {
         this.cazare = cazare;
     }
 
-    public int getBuget() {
+    public long getBuget() {
         return buget;
     }
 
-    public void setBuget(int buget) {
+    public void setBuget(long buget) {
         this.buget = buget;
     }
 

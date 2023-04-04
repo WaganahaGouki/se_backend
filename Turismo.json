@@ -2,7 +2,6 @@
 	{
 		"locatie":
 		{
-			"taraOrigine": "Franta",
 			"scop": "vizitat",
 			"perioada": 3,
 			"climat": "temperat",
@@ -18,7 +17,6 @@
 	{
 		"locatie":
 		{
-			"taraOrigine": "Franta",
 			"scop": "vizitat",
 			"perioada": 3,
 			"climat": "temperat",
@@ -34,7 +32,6 @@
 	{
 		"locatie":
 		{
-			"taraOrigine": "Franta",
 			"scop": "vizitat",
 			"perioada": 3,
 			"climat": "temperat",
@@ -50,7 +47,6 @@
 	{
 		"locatie":
 		{
-			"taraOrigine": "Germania",
 			"scop": "vizitat",
 			"perioada": 1,
 			"climat": "temperat",
@@ -66,7 +62,6 @@
 	{
 		"locatie":
 		{
-			"taraOrigine": "Germania",
 			"scop": "vizitat",
 			"perioada": 6,
 			"climat": "temperat",
@@ -82,7 +77,6 @@
 	{
 		"locatie":
 		{
-			"taraOrigine": "Germania",
 			"scop": "vizitat",
 			"perioada": 6,
 			"climat": "temperat",
@@ -98,7 +92,6 @@
 	{
 		"locatie":
 		{
-			"taraOrigine": "Germania",
 			"scop": "odihna",
 			"perioada": 4,
 			"climat": "temperat",
@@ -114,7 +107,6 @@
 	{
 		"locatie":
 		{
-			"taraOrigine": "Italia",
 			"scop": "vizitat",
 			"perioada": 3,
 			"climat": "mediteranean",
@@ -130,7 +122,6 @@
 	{
 		"locatie":
 		{
-			"taraOrigine": "Italia",
 			"scop": "vizitat",
 			"perioada": 1,
 			"climat": "mediteranean",
@@ -146,7 +137,6 @@
 	{
 		"locatie":
 		{
-			"taraOrigine": "Italia",
 			"scop": "vizitat",
 			"perioada": 2,
 			"climat": "mediteranean",
@@ -162,7 +152,6 @@
 	{
 		"locatie":
 		{
-			"taraOrigine": "Italia",
 			"scop": "odihna",
 			"perioada": 1,
 			"climat": "mediteranean",
@@ -178,7 +167,6 @@
 	{
 		"locatie":
 		{
-			"taraOrigine": "Italia",
 			"scop": "odihna",
 			"perioada": 4,
 			"climat": "mediteranean",
@@ -194,7 +182,6 @@
 	{
 		"locatie":
 		{
-			"taraOrigine": "Italia",
 			"scop": "odihna",
 			"perioada": 2,
 			"climat": "mediteranean",
@@ -210,7 +197,6 @@
 	{
 		"locatie":
 		{
-			"taraOrigine": "Spania",
 			"scop": "odihna",
 			"perioada": 3,
 			"climat": "mediteranean",
@@ -226,7 +212,6 @@
 	{
 		"locatie":
 		{
-			"taraOrigine": "Spania",
 			"scop": "odihna",
 			"perioada": 6,
 			"climat": "mediteranean",
@@ -242,7 +227,6 @@
 	{
 		"locatie":
 		{
-			"taraOrigine": "Spania",
 			"scop": "odihna",
 			"perioada": 1,
 			"climat": "mediteranean",
@@ -258,7 +242,6 @@
 	{
 		"locatie":
 		{
-			"taraOrigine": "Spania",
 			"scop": "vizitat",
 			"perioada": 4,
 			"climat": "mediteranean",
@@ -274,7 +257,6 @@
 	{
 		"locatie":
 		{
-			"taraOrigine": "Spania",
 			"scop": "vizitat",
 			"perioada": 2,
 			"climat": "mediteranean",
@@ -290,7 +272,6 @@
 	{
 		"locatie":
 		{
-			"taraOrigine": "Norvegia",
 			"scop": "odihna",
 			"perioada": 2,
 			"climat": "rece",
@@ -306,7 +287,6 @@
 	{
 		"locatie":
 		{
-			"taraOrigine": "Norvegia",
 			"scop": "odihna",
 			"perioada": 4,
 			"climat": "rece",
@@ -322,7 +302,6 @@
 	{
 		"locatie":
 		{
-			"taraOrigine": "Norvegia",
 			"scop": "odihna",
 			"perioada": 5,
 			"climat": "rece",
@@ -338,7 +317,6 @@
 	{
 		"locatie":
 		{
-			"taraOrigine": "Norvegia",
 			"scop": "odihna",
 			"perioada": 1,
 			"climat": "rece",
@@ -354,7 +332,6 @@
 	{
 		"locatie":
 		{
-			"taraOrigine": "Norvegia",
 			"scop": "odihna",
 			"perioada": 6,
 			"climat": "rece",
@@ -370,7 +347,6 @@
 	{
 		"locatie":
 		{
-			"taraOrigine": "Romania",
 			"scop": "odihna",
 			"perioada": 3,
 			"climat": "temperat",
@@ -386,7 +362,6 @@
 	{
 		"locatie":
 		{
-			"taraOrigine": "Romania",
 			"scop": "odihna",
 			"perioada": 5,
 			"climat": "temperat",
@@ -402,7 +377,6 @@
 	{
 		"locatie":
 		{
-			"taraOrigine": "Romania",
 			"scop": "odihna",
 			"perioada": 5,
 			"climat": "temperat",
@@ -418,7 +392,6 @@
 	{
 		"locatie":
 		{
-			"taraOrigine": "Germania",
 			"scop": "odihna",
 			"perioada": 2,
 			"climat": "temperat",
@@ -434,7 +407,6 @@
 	{
 		"locatie":
 		{
-			"taraOrigine": "Japonia",
 			"scop": "vizitat",
 			"perioada": 16,
 			"climat": "temperat",
@@ -450,7 +422,6 @@
 	{
 		"locatie":
 		{
-			"taraOrigine": "Japonia",
 			"scop": "vizitat",
 			"perioada": 3,
 			"climat": "temperat",
@@ -466,7 +437,6 @@
 	{
 		"locatie":
 		{
-			"taraOrigine": "Japonia",
 			"scop": "vizitat",
 			"perioada": 3,
 			"climat": "temperat",
@@ -482,7 +452,6 @@
 	{
 		"locatie":
 		{
-			"taraOrigine": "China",
 			"scop": "vizitat",
 			"perioada": 2,
 			"climat": "mediteranean",
@@ -498,7 +467,6 @@
 	{
 		"locatie":
 		{
-			"taraOrigine": "China",
 			"scop": "vizitat",
 			"perioada": 3,
 			"climat": "mediteranean",
@@ -514,7 +482,6 @@
 	{
 		"locatie":
 		{
-			"taraOrigine": "China",
 			"scop": "odihna",
 			"perioada": 6,
 			"climat": "mediteranean",
@@ -530,7 +497,6 @@
 	{
 		"locatie":
 		{
-			"taraOrigine": "India",
 			"scop": "odihna",
 			"perioada": 10,
 			"climat": "mediteranean",
@@ -546,7 +512,6 @@
 	{
 		"locatie":
 		{
-			"taraOrigine": "India",
 			"scop": "odihna",
 			"perioada": 7,
 			"climat": "mediteranean",
@@ -562,7 +527,6 @@
 	{
 		"locatie":
 		{
-			"taraOrigine": "India",
 			"scop": "odihna",
 			"perioada": 20,
 			"climat": "mediteranean",
@@ -578,7 +542,6 @@
 	{
 		"locatie":
 		{
-			"taraOrigine": "India",
 			"scop": "vizitat",
 			"perioada": 3,
 			"climat": "mediteranean",
@@ -594,7 +557,6 @@
 	{
 		"locatie":
 		{
-			"taraOrigine": "India",
 			"scop": "vizitat",
 			"perioada": 4,
 			"climat": "mediteranean",
@@ -610,7 +572,6 @@
 	{
 		"locatie":
 		{
-			"taraOrigine": "Emiratele Arabe Unite",
 			"scop": "vizitat",
 			"perioada": 3,
 			"climat": "mediteranean",
@@ -626,7 +587,6 @@
 	{
 		"locatie":
 		{
-			"taraOrigine": "Emiratele Arabe Unite",
 			"scop": "vizitat",
 			"perioada": 3,
 			"climat": "mediteranean",
@@ -642,7 +602,6 @@
 	{
 		"locatie":
 		{
-			"taraOrigine": "Emiratele Arabe Unite",
 			"scop": "vizitat",
 			"perioada": 2,
 			"climat": "mediteranean",
@@ -658,7 +617,6 @@
 	{
 		"locatie":
 		{
-			"taraOrigine": "Emiratele Arabe Unite",
 			"scop": "vizitat",
 			"perioada": 2,
 			"climat": "mediteranean",
@@ -674,7 +632,6 @@
 	{
 		"locatie":
 		{
-			"taraOrigine": "Emiratele Arabe Unite",
 			"scop": "odihna",
 			"perioada": 1,
 			"climat": "mediteranean",
@@ -690,7 +647,6 @@
 	{
 		"locatie":
 		{
-			"taraOrigine": "Emiratele Arabe Unite",
 			"scop": "odihna",
 			"perioada": 10,
 			"climat": "mediteranean",
